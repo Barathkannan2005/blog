@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/api product/route": "/api/api product",
+  "/favicon.ico/route": "/favicon.ico",
+  "/(seller)/logins/page": "/logins",
+  "/(seller)/settinges/page": "/settinges",
+  "/page": "/",
+  "/(buyer)/login/page": "/login",
+  "/(buyer)/page": "/",
+  "/(buyer)/setting/page": "/setting"
+}

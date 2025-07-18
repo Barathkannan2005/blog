@@ -1,3 +1,11 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/api product/route": "app/api/api product/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(seller)/logins/page": "app/(seller)/logins/page.js",
+  "/(seller)/settinges/page": "app/(seller)/settinges/page.js",
+  "/page": "app/page.js",
+  "/(buyer)/login/page": "app/(buyer)/login/page.js",
+  "/(buyer)/page": "app/(buyer)/page.js",
+  "/(buyer)/setting/page": "app/(buyer)/setting/page.js"
 }
