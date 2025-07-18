@@ -1,0 +1,42 @@
+.loginContainer {
+  display: grid;
+  place-items: center;
+  height: 90vh;
+}
+
+.form {
+  display: grid;
+  gap: 20px;
+  padding: 30px;
+  background-color: #47cad8;
+  color: rgb(18, 17, 17);
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  width: 500px; 
+  height: 350px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.input {
+  padding: 12px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: rgb(250, 246, 246);
+  color: white; 
+}
+
+.button {
+  padding: 12px 20px;
+  background-color: #647999;
+  color: rgb(13, 13, 13);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: #506080;
+}
