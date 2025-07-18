@@ -1,4 +1,3 @@
-import { product } from "@/lib/product";
 
 export let GET = async (req) => {
     try {
